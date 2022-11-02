@@ -31,7 +31,9 @@ hist(wine$residual_sugar)
 # Data is not normally distributed, so perform a spiderman
 cor.test(salt_sugar_quality$ratio, salt_sugar_quality$quality, method = "spearman")
 
+# Plot just so I can maintain some remnant of sanity
 plot(salt_sugar_quality$ratio, salt_sugar_quality$quality)
+
 
 
 
