@@ -1,2 +1,2 @@
 # wine
-Statistcal analysis of the biochemical basis of wine aroma, part of university assignment.
+Statistcal analysis of the biochemical basis of percieved wine quality, part of university assignment.
